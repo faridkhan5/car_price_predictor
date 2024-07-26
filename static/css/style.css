@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-dark{
+    background-color: grey;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
